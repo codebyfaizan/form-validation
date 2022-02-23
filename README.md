@@ -1,3 +1,6 @@
+# Visit Github Pages to access the deployed code
+https://faizan-aka.github.io/form-validation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
